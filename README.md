@@ -1,4 +1,4 @@
-# Program3 Biaya pengiriman
+# Program Biaya pengiriman
 ![gambar1](https://github.com/Raihanardiansyah/Program3/blob/main/ss/ss1%20(1).png?raw=true)
 ### 1. Langkah-langkah dalam Fungsi:   
 Inisialisasi Biaya Awal:   
